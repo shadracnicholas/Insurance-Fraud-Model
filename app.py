@@ -44,7 +44,7 @@ def predict():
         'vehicle_claim': 35100,
         'police_report_available': 0,
         'csl_per_person': 250,
-        'csl_per_person': 500,
+        'csl_per_accident': 500,
         'authorities_contacted': 'Police',
         'umbrella_limit': 5000000,
         'bodily_injuries': 0,
